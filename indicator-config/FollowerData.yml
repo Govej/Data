@@ -20,8 +20,8 @@ graph_stacked_disaggregation: ''
 graph_title: []
 graph_titles: []
 graph_type: bar
-indicator_name: Twitter Followers
-indicator_number: TwitterFollower1
+indicator_name: FollowerData
+indicator_number: FollowerData
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
