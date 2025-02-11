@@ -49,19 +49,72 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Proportion of population below the international poverty line",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-14",
+                "15-64",
+                "65+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit Multiplier",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

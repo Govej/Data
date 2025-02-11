@@ -1,7 +1,9 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Series,Sex,Area,Age,Unit Multiplier,Units,Value
+2019,Proportion of population below the international poverty line,Male,,,Units,Percentage (%),31.0
+2019,Proportion of population below the international poverty line,Female,,,Units,Percentage (%),31.0
+2019,Proportion of population below the international poverty line,,Urban,,Units,Percentage (%),12.0
+2019,Proportion of population below the international poverty line,,Rural,,Units,Percentage (%),41.0
+2019,Proportion of population below the international poverty line,,,0-14,Units,Percentage (%),38.0
+2019,Proportion of population below the international poverty line,,,15-64,Units,Percentage (%),26.0
+2019,Proportion of population below the international poverty line,,,65+,Units,Percentage (%),19.0
+2019,Proportion of population below the international poverty line,,,,Units,Percentage (%),30.9
