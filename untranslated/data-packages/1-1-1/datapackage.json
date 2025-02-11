@@ -59,16 +59,6 @@
             }
           },
           {
-            "name": "Unit Multiplier",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {

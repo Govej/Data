@@ -101,17 +101,6 @@
             "title": "Age"
           },
           {
-            "name": "Unit Multiplier",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit Multiplier"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
