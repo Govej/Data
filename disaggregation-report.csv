@@ -1,5 +1,7 @@
 Disaggregation,Number of indicators,Number of values
 Age,1,3
-Area,1,2
+Degree of urbanisation,1,2
+Observation-level footnotes,1,6
+Reference area,1,3
 Sex,1,2
-Unit Measure,1,1
+Time period details,1,3

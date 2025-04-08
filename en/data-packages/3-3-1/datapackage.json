@@ -12,19 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Unit Measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rate per 100,000 population",
-                ""
-              ]
-            },
-            "title": "Unit Measure"
           },
           {
             "name": "Value",
