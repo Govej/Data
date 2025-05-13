@@ -42,6 +42,8 @@ inputs:
   - class: InputSdmxMl_Structure
     source: http://51.75.253.167/ADMIN/ws/NSI_WS/rest/data/AFDB,DF_SDG_TEST,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
     dsd: http://51.75.253.167/ADMIN/ws/NSI_WS/rest/dataflow/AFDB/DF_SDG_TEST/1.0/?detail=Full&references=Descendants
+    import_codes: true
+    import_names: false
   - class: InputYamlMeta
     path_pattern: indicator-config/*.yml
     git: false
