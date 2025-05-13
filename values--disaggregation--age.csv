@@ -1,4 +1,4 @@
 Value,Disaggregation combinations using this value,Number of indicators
-15 to 64 years old,3,1
-65 years old and over,3,1
-under 15 years old,3,1
+Y0T14,3,1
+Y15T64,3,1
+Y_GE65,3,1

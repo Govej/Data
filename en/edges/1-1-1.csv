@@ -1,7 +1,6 @@
 From,To
-COMMENT_OBS,Reference area
-Reference area,Time period details
-Observation-level footnotes,Sex
-Observation-level footnotes,Age
-Observation-level footnotes,Degree of urbanisation
-Time period details,Observation-level footnotes
+COMMENT_OBS,REF_AREA
+REF_AREA,TIME_DETAIL
+TIME_DETAIL,SEX
+TIME_DETAIL,AGE
+TIME_DETAIL,URBANISATION

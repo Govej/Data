@@ -20,19 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Accessed March 26, 2024. Based on data from NSS. Estimated from grouped consumption data.",
-                "Accessed March 26, 2024. Based on data from NSS-SCH1. Estimated from grouped consumption data.",
-                "Accessed March 26, 2024. Based on data from NSS-SCH1. Estimated from unit-record consumption data.",
                 "Accessed March 26, 2024. Based on data from CPHS. Estimated from imputed unit-record consumption data.",
                 "Accessed March 26, 2024. Survey name: NSS-SCH1. Uses a consumption aggregate, which is not spatially deflated.",
-                "Accessed March 26, 2024. Based on data from HIES. Estimated from grouped consumption data.",
-                "Accessed March 26, 2024. Based on data from HIES. Estimated from unit-record consumption data.",
-                "Accessed March 26, 2024. Based on data from CWIS. Estimated from unit-record consumption data.",
                 "Accessed March 26, 2024. Based on data from BMTHS. Estimated from unit-record consumption data.",
-                "Accessed March 26, 2024. Survey name: CWIS. Uses a consumption aggregate, which is not spatially deflated.",
                 "Accessed March 26, 2024. Survey name: BMTHS. Uses a consumption aggregate, which is not spatially deflated.",
-                "Accessed March 26, 2024. Based on data from HBCS. Estimated from grouped consumption data.",
-                "Accessed March 26, 2024. Based on data from LSS. Estimated from grouped consumption data.",
                 "Accessed March 26, 2024. Based on data from NSHBCSL. Estimated from unit-record consumption data.",
                 "Accessed March 26, 2024. Survey name: NSHBCSL. Uses a consumption aggregate, which is not spatially deflated.",
                 ""
@@ -41,57 +32,57 @@
             "title": "COMMENT_OBS"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "India",
-                "Botswana",
-                "Tunisia",
+                "356",
+                "72",
+                "788",
                 ""
               ]
             },
-            "title": "Reference area"
+            "title": "REF_AREA"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "65 years old and over",
-                "under 15 years old",
-                "15 to 64 years old",
+                "Y_GE65",
+                "Y0T14",
+                "Y15T64",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "URBANISATION"
           },
           {
-            "name": "Time period details",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
@@ -101,23 +92,7 @@
                 ""
               ]
             },
-            "title": "Time period details"
-          },
-          {
-            "name": "Observation-level footnotes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Accessed March 26, 2024. Based on data from CPHS. Estimated from imputed unit-record consumption data.",
-                "Accessed March 26, 2024. Survey name: NSS-SCH1. Uses a consumption aggregate, which is not spatially deflated.",
-                "Accessed March 26, 2024. Based on data from BMTHS. Estimated from unit-record consumption data.",
-                "Accessed March 26, 2024. Survey name: BMTHS. Uses a consumption aggregate, which is not spatially deflated.",
-                "Accessed March 26, 2024. Based on data from NSHBCSL. Estimated from unit-record consumption data.",
-                "Accessed March 26, 2024. Survey name: NSHBCSL. Uses a consumption aggregate, which is not spatially deflated.",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
+            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",
