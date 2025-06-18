@@ -486,7 +486,7 @@ OTHER_DOC__GLOBAL: |-
 indicator_number: 1.1.1
 target_number: '1.1'
 goal_number: '1'
-reporting_status: complete
+reporting_status: notstarted
 data_non_statistical: false
 graph_type: line
 indicator_sort_order: 01-01-01
