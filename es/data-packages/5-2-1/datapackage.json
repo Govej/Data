@@ -12,8 +12,125 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1. Figures are for physical or Sexual or physchological from Table 17.13.1 in 2022 KDHS vol 1 report 2.Indicator to be run for physical, sexual and/or psychological IPV (Data request done to Waweru)",
+                "1. Figures are for physical or Sexual from Table 17.13.1 in 2022 KDHS vol 1 report 2.Indicator to be run for physical and/or sexual IPV (Data request done to Waweru)",
+                "Covers women 15-49 years",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KDHS",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "R",
+                "U",
+                ""
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2022",
+                ""
+              ]
+            },
+            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

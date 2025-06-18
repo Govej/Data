@@ -1,1 +1,6 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2018,Normal value,Millions,_L_KE_150a01_01,,KES,2022,197.32099
+2019,Normal value,Millions,_L_KE_150a01_01,,KES,2022,395.016
+2020,Normal value,Millions,_L_KE_150a01_01,,KES,2022,269.0
+2021,Normal value,Millions,_L_KE_150a01_01,,KES,2022,208.0
+2022,Normal value,Millions,_L_KE_150a01_01,,KES,2022,300.0

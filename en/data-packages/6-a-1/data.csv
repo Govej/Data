@@ -1,1 +1,9 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2014,Normal value,Millions,MWIS--SDG pilot Report,_L_KE_060a01_01,,USD,2021,204.8
+2015,Normal value,Millions,MWIS--SDG pilot Report,_L_KE_060a01_01,,USD,2021,172.6
+2016,Normal value,Millions,MWIS--SDG pilot Report,_L_KE_060a01_01,,USD,2021,220.5
+2017,Normal value,Millions,MWIS--SDG pilot Report,_L_KE_060a01_01,,USD,2021,244.3
+2018,Normal value,Millions,MWIS--SDG pilot Report,_L_KE_060a01_01,,USD,2021,295.3
+2019,Normal value,Millions,MWIS--SDG pilot Report,_L_KE_060a01_01,,USD,2021,217.2
+2020,Normal value,Millions,MWIS--SDG pilot Report,_L_KE_060a01_01,,USD,2021,206.9
+2021,Normal value,Millions,MWIS--SDG pilot Report,_L_KE_060a01_01,,USD,2021,247.1

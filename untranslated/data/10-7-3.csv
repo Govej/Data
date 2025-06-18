@@ -1,1 +1,8 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,Value
+2015,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,2
+2016,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,2
+2017,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,5
+2018,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,6
+2019,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,3
+2020,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,0
+2021,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,0

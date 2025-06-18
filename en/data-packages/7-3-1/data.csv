@@ -1,1 +1,11 @@
-Year,Value
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2014,Normal value,Units,Modern energy only,Economic Survey,Energy intensity level of primary energy [7.3.1],,T_OIL_PER_USD,2023,2e-05
+2015,Normal value,Units,Modern energy only,Economic Survey,Energy intensity level of primary energy [7.3.1],,T_OIL_PER_USD,2023,2.1e-05
+2016,Normal value,Units,Modern energy only,Economic Survey,Energy intensity level of primary energy [7.3.1],,T_OIL_PER_USD,2023,2e-05
+2017,Normal value,Units,Modern energy only,Economic Survey,Energy intensity level of primary energy [7.3.1],,T_OIL_PER_USD,2023,1.8e-05
+2018,Normal value,Units,Modern energy only,Economic Survey,Energy intensity level of primary energy [7.3.1],,T_OIL_PER_USD,2023,1.8e-05
+2019,Normal value,Units,Modern energy only,Economic Survey,Energy intensity level of primary energy [7.3.1],,T_OIL_PER_USD,2023,1.8e-05
+2020,Normal value,Units,Modern energy only,Economic Survey,Energy intensity level of primary energy [7.3.1],,T_OIL_PER_USD,2023,3.4e-05
+2021,Normal value,Units,Modern energy only,Economic Survey,Energy intensity level of primary energy [7.3.1],,T_OIL_PER_USD,2023,3.4e-05
+2022,Normal value,Units,Modern energy only,Economic Survey,Energy intensity level of primary energy [7.3.1],,T_OIL_PER_USD,2023,2e-05
+2023,Normal value,Units,Modern energy only,Economic Survey,Energy intensity level of primary energy [7.3.1],,T_OIL_PER_USD,2023,1.5e-05

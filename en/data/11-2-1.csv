@@ -1,1 +1,5 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
+2019,Normal value,Units,Proportion of population that has convenient access to public transport [11.2.1],KE_KIS,City,Percent,2019,10
+2019,Normal value,Units,Proportion of population that has convenient access to public transport [11.2.1],KE_MBA,City,Percent,2019,20
+2019,Normal value,Units,Proportion of population that has convenient access to public transport [11.2.1],KE_NBO,City,Percent,2019,66
+2019,Normal value,Units,Proportion of population that has convenient access to public transport [11.2.1],KE_NUU,City,Percent,2019,16

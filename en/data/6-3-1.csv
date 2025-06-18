@@ -1,1 +1,6 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,Value
+2020,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,WW_DOM,Percent,2022,9.4
+2022,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,WW_DOM,Percent,2022,11.0
+2020,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,WW_DOM_SEW,Percent,2022,53.3
+2022,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,WW_DOM_SEW,Percent,2022,50.0
+2022,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,WW_DOM_SPT,Percent,2022,39.1

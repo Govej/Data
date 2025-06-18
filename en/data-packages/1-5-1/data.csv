@@ -1,1 +1,32 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_01,,Per million population,2021,3151
+2018,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_01,,Per million population,2021,3019
+2019,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_01,,Per million population,2021,2759
+2021,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_01,,Per million population,2021,2399
+2015,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_02,,Number,2021,1500000
+2018,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_02,,Number,2021,1401058
+2019,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_02,,Number,2021,1313374
+2021,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_02,,Number,2021,1192393
+2018,Normal value,Units,,_L_KE_010501_03,,Number,2021,269515
+2019,Normal value,Units,,_L_KE_010501_03,,Number,2021,396855
+2021,Normal value,Units,,_L_KE_010501_03,,Number,2021,158472
+2018,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_04,,Number,2021,1131300
+2019,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_04,,Number,2021,916115
+2021,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_04,,Number,2021,1033764
+2018,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_06,,Number,2021,269515
+2019,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_06,,Number,2021,396855
+2021,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_06,,Number,2021,158472
+2018,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_07,,Number,2021,1131300
+2019,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_07,,Number,2021,916115
+2021,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_07,,Number,2021,1033764
+2018,Normal value,Units,,_L_KE_130101_03,,Number,2021,187
+2019,Normal value,Units,,_L_KE_130101_03,,Number,2021,305
+2021,Normal value,Units,,_L_KE_130101_03,,Number,2021,139
+2018,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,Number,2021,56
+2019,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,Number,2021,82
+2021,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,Number,2021,17
+2019,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,2021,17
+2021,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,2021,1
+2018,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,2021,187
+2019,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,2021,305
+2021,Normal value,Units,Kenya National Disaster Operations Centre (NDOC),"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,2021,139

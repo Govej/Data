@@ -12,8 +12,99 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Economic Survey",
+                "Treasury, Economic Survey",
+                "CBK",
+                "KPHC 2019, KCHSP 2020, KCHSP 2021",
+                "KNBS",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2023",
+                "2022",
+                "2021",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Include debt service of IMF(repayments, repurchases and charges)",
+                "End Period Annual Average",
+                "Terms of Trade for all items",
+                "Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price",
+                "BOP",
+                "GDP at Current Market price",
+                "Include private external debt",
+                "Base; Feb 2019=100",
+                "NationalTax revenue. GDP at Current Market price",
+                "Includes private final consumption and final consumption by NPISH",
+                "This includes Gross Fixed Capital Formation and Changes in Inventories",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

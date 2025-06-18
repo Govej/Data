@@ -1,1 +1,5 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2018,Normal value,Units,Ministry of Enviroment,_L_KE_130202_01,,Tonnes of CO2-equivalent,2021,96
+2019,Normal value,Units,Ministry of Enviroment,_L_KE_130202_01,,Tonnes of CO2-equivalent,2021,97
+2020,Normal value,Units,Ministry of Enviroment,_L_KE_130202_01,,Tonnes of CO2-equivalent,2021,98
+2021,Normal value,Units,Ministry of Enviroment,_L_KE_130202_01,,Tonnes of CO2-equivalent,2021,100

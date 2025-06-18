@@ -1,1 +1,4 @@
-Year,Value
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2014,Normal value,Units,Elephants Ivory and Rhino horns,KWS,_L_KE_150701_01,,Metric Tons,2017,137.3
+2016,Normal value,Units,Elephants Ivory and Rhino horns,KWS,_L_KE_150701_01,,Metric Tons,2017,40.6
+2017,Normal value,Units,Elephants Ivory and Rhino horns,KWS,_L_KE_150701_01,,Metric Tons,2017,56.3
