@@ -39,15 +39,26 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputSdmxMl_StructureSpecific
-    source: https://sn.sdmx.afdb.org/ns-ws/rest/data/SN1,DF_SDG_SN_MAP,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD&format=structurespecificdata
-    dsd: https://sn.sdmx.afdb.org/ns-ws/rest/dataflow/SN1/DF_SDG_SN_MAP/latest?references=all
-    import_codes: true 
-    import_series_attributes: true 
+  #- class: InputSdmxMl_Multiple
+   # path_pattern: 'data/*.xml'
+    #dsd: 'Kenya-SDG-DSD-1.0.xml'
+  - class: InputSdmxMl_Structure
+    source: https://ke.sdmx.afdb.org/ns-ws/rest/data/KE1,DF_SDG,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    dsd: https://ke.sdmx.afdb.org/ns-ws/rest/datastructure/KE1/SDG/1.0/?detail=Full&references=Descendants
+    dimension_map:
+      REF_AREA|KE: ''
+    drop_dimensions:
+      - FREQ
+      - REPORTING_TYPE
+      - NATURE
+      - TIME_COVERAGE
+    drop_singleton_dimensions: false
+    import_series_attributes: true
     import_observation_attributes: true
-    request_params:
-      headers:
-        User-Agent: Open-SDG-Build-1
+    import_codes: true
+    request_params: 
+      headers: 
+        User-Agent: Open-SDG-Build-1 
   - class: InputYamlMeta
     path_pattern: indicator-config/*.yml
     git: false
