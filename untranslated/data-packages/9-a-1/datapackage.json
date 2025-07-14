@@ -29,7 +29,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "6",
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MOFEDIP",
                 ""
               ]
             }
@@ -52,18 +62,8 @@
             "type": "string"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

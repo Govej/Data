@@ -38,15 +38,17 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Population aged 3 years and above",
+                "GOZ",
+                "ZIMSTAT_MICS_Report_2019",
+                "ZIMSTAT_Population_and_Housing_Census_Report_2022",
                 ""
               ]
             },
-            "title": "Observation-level footnotes"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -55,9 +57,19 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ZW_BA",
+                "ZW_HA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MI",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MV",
+                "ZW_MW",
                 ""
               ]
             },
@@ -69,37 +81,10 @@
             "constraints": {
               "enum": [
                 "Female",
-                "Male",
                 ""
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "75 years old and over",
-                "10 to 14 years old",
-                "15 to 19 years old",
-                "20 to 24 years old",
-                "25 to 29 years old",
-                "30 to 34 years old",
-                "35 to 39 years old",
-                "Y3T4",
-                "40 to 44 years old",
-                "45 to 49 years old",
-                "50 to 54 years old",
-                "55 to 59 years old",
-                "5 to 9 years old",
-                "60 to 64 years old",
-                "65 to 69 years old",
-                "70 to 74 years old",
-                ""
-              ]
-            },
-            "title": "Age"
           },
           {
             "name": "URBANISATION",
@@ -117,17 +102,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

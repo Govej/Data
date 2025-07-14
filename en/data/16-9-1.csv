@@ -1,8 +1,18 @@
-Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
-2014,Normal value,Units,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,2022,66.9
-2019,Normal value,Units,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,2022,89.3
-2022,Normal value,Units,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,2022,76.0
-2022,Normal value,Units,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Rural,Percent,2022,73.2
-2022,Normal value,Units,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Urban,Percent,2022,81.3
-2022,Normal value,Units,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Female,,Percent,2022,75.6
-2022,Normal value,Units,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Male,,Percent,2022,76.3
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
+2019,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,48.7
+2022,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,19.1
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,56.6
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Rural,Percent,52.2
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Urban,Percent,64.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Female,,Percent,57.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Male,,Percent,55.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],ZW_BA,,,Percent,81.9
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],ZW_HA,,,Percent,57.2
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],ZW_MA,,,Percent,48.9
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],ZW_MC,,,Percent,58.5
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],ZW_ME,,,Percent,52.9
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],ZW_MI,,,Percent,52.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],ZW_MN,,,Percent,65.5
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],ZW_MS,,,Percent,75.0
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],ZW_MV,,,Percent,49.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],ZW_MW,,,Percent,58.2

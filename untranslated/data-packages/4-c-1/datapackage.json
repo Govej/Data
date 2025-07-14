@@ -35,6 +35,18 @@
             }
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Min_primany_secondary_EMIS_2021",
+                "Min_primany_secondary_EMIS_2019",
+                "Min_primany_secondary_EMIS_2024",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -52,9 +64,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AGG_2_3",
                 "ISCED11_02",
                 "ISCED11_1",
+                "ISCED11_2",
                 ""
               ]
             }
@@ -62,16 +74,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

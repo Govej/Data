@@ -38,22 +38,12 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Include both elected and nominated seats",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Survey",
+                "ZIMSTAT_women_and_men_report",
+                "ZDHS_2023_24",
                 ""
               ]
             },
@@ -86,33 +76,20 @@
             "title": "Sex"
           },
           {
-            "name": "OCCUPATION",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_ISCO08_1111_03",
-                "_L_KE_ISCO08_1111_05",
-                "_L_KE_ISCO08_1111_06",
+                "20 to 24 years old",
                 ""
               ]
             },
-            "title": "Occupation"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

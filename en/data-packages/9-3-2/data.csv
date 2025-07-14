@@ -1,2 +1,8 @@
-Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
-2016,Normal value,Units,Imputed from the MSME 2016 data,2016 : MSME,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,2016,17.5
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2014,Normal value,Units,RBZ,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,39.0
+2019,Normal value,Units,RBZ,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,5.25
+2022,Normal value,Units,RBZ,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,4.15
+2024,Normal value,Units,RBZ,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,5.25
+2030,Normal value,Units,RBZ,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,39.0
+2031,Normal value,Units,RBZ,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,4.15
+2032,Normal value,Units,RBZ,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,5.25

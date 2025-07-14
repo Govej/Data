@@ -1,11 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,Value
-2014,A,0,Compensation of employees/GDP,Economic Survey,SL_EMP_GTOTL,,PT,2023,27.0
-2015,A,0,Compensation of employees/GDP,Economic Survey,SL_EMP_GTOTL,,PT,2023,26.9
-2016,A,0,Compensation of employees/GDP,Economic Survey,SL_EMP_GTOTL,,PT,2023,28.1
-2017,A,0,Compensation of employees/GDP,Economic Survey,SL_EMP_GTOTL,,PT,2023,28.2
-2018,A,0,Compensation of employees/GDP,Economic Survey,SL_EMP_GTOTL,,PT,2023,28.9
-2019,A,0,Compensation of employees/GDP,Economic Survey,SL_EMP_GTOTL,,PT,2023,28.9
-2020,A,0,Compensation of employees/GDP,Economic Survey,SL_EMP_GTOTL,,PT,2023,28.5
-2021,A,0,Compensation of employees/GDP,Economic Survey,SL_EMP_GTOTL,,PT,2023,27.9
-2022,A,0,Compensation of employees/GDP,Economic Survey,SL_EMP_GTOTL,,PT,2023,27.1
-2023,A,0,Compensation of employees/GDP,Economic Survey,SL_EMP_GTOTL,,PT,2023,26.3
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2014,A,0,ZIMSTAT_National_Accounts_Department_2018,SL_EMP_GTOTL,,PT,36.13081918691323
+2015,A,0,ZIMSTAT_National_Accounts_Department_2018,SL_EMP_GTOTL,,PT,36.495276013308654
+2016,A,0,ZIMSTAT_National_Accounts_Department_2018,SL_EMP_GTOTL,,PT,37.22806761880432
+2017,A,0,ZIMSTAT_National_Accounts_Department_2018,SL_EMP_GTOTL,,PT,37.4495374125864
+2018,A,0,ZIMSTAT_National_Accounts_Department_2018,SL_EMP_GTOTL,,PT,34.21241004712392
+2036,A,0,ZIMSTAT_National_Accounts_Department_2018,SL_EMP_GTOTL,,PT,36.13081918691323

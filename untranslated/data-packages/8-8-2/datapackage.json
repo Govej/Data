@@ -29,17 +29,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CBAs - Collective Bargaining Agreements used as a proxy",
+                "0",
                 ""
               ]
             }
@@ -49,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Survey",
+                "MPSLSW_administrative_records_National_Employment_Councils_NEC_report",
                 ""
               ]
             }
@@ -70,16 +60,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

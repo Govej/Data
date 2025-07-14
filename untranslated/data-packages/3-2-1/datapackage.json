@@ -39,7 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2014: KDHS, 2019 KPHC, 2022: KDHS",
+                "ZDHS_2023_24",
+                "Zimstat_2022_PHC",
                 ""
               ]
             }
@@ -50,9 +51,19 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ZW_BA",
+                "ZW_HA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MI",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MV",
+                "ZW_MW",
                 ""
               ]
             }
@@ -80,22 +91,24 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "ISCED11_02",
+                "ISCED11_1",
+                "ISCED11_2",
                 ""
               ]
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

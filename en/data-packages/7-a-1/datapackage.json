@@ -31,11 +31,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millions",
+                "Units",
                 ""
               ]
             },
             "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZERA_and_ZESA",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -58,19 +69,8 @@
             "title": "Unit of measure"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022",
-                ""
-              ]
-            },
-            "title": "Time period details"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

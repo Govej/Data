@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2018:  KENPHIA        2019:  KASF II",
+                "HIV_estimates",
                 ""
               ]
             },
@@ -64,33 +64,9 @@
             "title": "REF_AREA"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019",
-                "2018",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

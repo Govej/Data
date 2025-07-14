@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2019: KPHC",
+                "EMIS_2024",
                 ""
               ]
             },
@@ -55,9 +55,19 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ZW_BA",
+                "ZW_HA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MI",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MV",
+                "ZW_MW",
                 ""
               ]
             },
@@ -76,24 +86,13 @@
             "title": "SEX"
           },
           {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "R",
-                "U",
-                ""
-              ]
-            },
-            "title": "URBANISATION"
-          },
-          {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_3",
-                "ISCED11A_1",
+                "AGG_0_1",
+                "AGG_1_2",
+                "AGG_2_3",
                 ""
               ]
             },
@@ -103,28 +102,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR)",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

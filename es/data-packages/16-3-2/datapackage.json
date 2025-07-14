@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Survey",
+                "ZIMSTAT",
                 ""
               ]
             },
@@ -64,32 +64,9 @@
             "title": "REF_AREA"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

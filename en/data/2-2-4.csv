@@ -1,1 +1,12 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
+2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],,Urban,Percent,24.7
+2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],ZW_BA,Urban,Percent,18.2
+2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],ZW_HA,Urban,Percent,58.6
+2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],ZW_MA,Urban,Percent,32.9
+2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],ZW_MC,Urban,Percent,12.3
+2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],ZW_ME,Urban,Percent,24.0
+2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],ZW_MI,Urban,Percent,14.5
+2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],ZW_MN,Urban,Percent,17.4
+2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],ZW_MS,Urban,Percent,17.4
+2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],ZW_MV,Urban,Percent,17.3
+2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],ZW_MW,Urban,Percent,14.2

@@ -38,15 +38,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Refers to Public Expenditure on Recreation, Culture and Religion",
+                "MoHACH",
                 ""
               ]
             },
-            "title": "Observation-level footnotes"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -67,17 +67,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

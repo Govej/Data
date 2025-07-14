@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MWIS/UN WATER",
+                "EMA_2023",
                 ""
               ]
             }
@@ -62,18 +62,8 @@
             "type": "string"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

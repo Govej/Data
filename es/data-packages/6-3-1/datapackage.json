@@ -42,7 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MWIS/UN WATER",
+                "ZINWA",
+                "MOFEDIP",
                 ""
               ]
             },
@@ -64,33 +65,9 @@
             "title": "REF_AREA"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WW_DOM",
-                "WW_DOM_SEW",
-                "WW_DOM_SPT",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

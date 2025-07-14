@@ -1,25 +1,16 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
-2016,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,2022,56.5
-2020,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,2022,60.3
-2021,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,2022,57.5
-2022,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,2022,62.4
-2016,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,2022,58.5
-2020,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,2022,60.0
-2021,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,2022,61.7
-2022,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,2022,63.4
-2016,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,2022,44.2
-2020,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,2022,60.5
-2021,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,2022,48.5
-2022,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,2022,52.2
-2016,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,,Percent,2022,19.1
-2020,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,,Percent,2022,17.0
-2021,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,,Percent,2022,19.7
-2022,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,,Percent,2022,30.5
-2016,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,Rural,Percent,2022,21.5
-2020,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,Rural,Percent,2022,18.0
-2021,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,Rural,Percent,2022,21.3
-2022,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,Rural,Percent,2022,33.9
-2016,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,Urban,Percent,2022,13.0
-2020,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,Urban,Percent,2022,15.9
-2021,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,Urban,Percent,2022,16.2
-2022,Normal value,Units,2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS,Prevalence of severe food insecurity in the population [2.1.2],,Urban,Percent,2022,22.0
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
+2017,Normal value,Units,MOFEDIP,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,52
+2019,Normal value,Units,MOFEDIP,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,42
+2020,Normal value,Units,MOFEDIP,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,72
+2021,Normal value,Units,MOFEDIP,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,61
+2023,Normal value,Units,MOFEDIP,Prevalence of moderate or severe food insecurity in the population [2.1.2],,,Percent,26
+2017,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,52
+2019,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,42
+2020,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,75
+2021,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,71
+2023,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Rural,Percent,41
+2017,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,50
+2019,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,27
+2020,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,65
+2021,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,42
+2023,Normal value,Units,ZIMSTAT,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Urban,Percent,38

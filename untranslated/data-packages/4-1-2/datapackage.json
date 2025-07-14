@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2019: KPHC",
+                "EMIS_2024",
                 ""
               ]
             }
@@ -50,9 +50,19 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ZW_BA",
+                "ZW_HA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MI",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MV",
+                "ZW_MW",
                 ""
               ]
             }
@@ -69,23 +79,13 @@
             }
           },
           {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "R",
-                "U",
-                ""
-              ]
-            }
-          },
-          {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_3",
-                "ISCED11A_1",
+                "AGG_0_1",
+                "AGG_1_2",
+                "AGG_2_3",
                 ""
               ]
             }
@@ -93,26 +93,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR)",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

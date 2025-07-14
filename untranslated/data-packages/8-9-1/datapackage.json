@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Survey",
+                "ZIMSTAT_National_Accounts",
                 ""
               ]
             }
@@ -60,26 +60,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Used growth of accommodation and food services activity as a proxy",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2010: Manpower Survey, 2016: KIHBS, 2019: KPHC, 2021: KCHS",
+                "Labour_Force_Survey",
                 ""
               ]
             }
@@ -68,29 +68,8 @@
             }
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PWSM_PRIVATE",
-                "PWSM_PUBLIC",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baseline Data          (2009-2014)",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

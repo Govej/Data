@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Survey",
+                "ZDHS_2023_24",
                 ""
               ]
             }
@@ -58,32 +58,8 @@
             }
           },
           {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KE_3",
-                "_L_KE_4",
-                "_L_KE_6",
-                "ISCED11_02",
-                "ISCED11_1",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

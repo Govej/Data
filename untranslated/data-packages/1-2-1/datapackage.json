@@ -35,21 +35,13 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Refers to individuals",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2016: KIHBS                2019 - 2022: KCHSP",
+                "Zimstat_Mini__PICES__Poverty_Report_2019__LowerLine",
+                "Zimstat_Poverty_Atlas__Report_2021_Males_and_Females",
+                "Zimstat_Poverty_Report_2017_Lower_Line",
                 ""
               ]
             }
@@ -60,9 +52,19 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ZW_BA",
+                "ZW_HA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MI",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MV",
+                "ZW_MW",
                 ""
               ]
             }
@@ -74,23 +76,6 @@
               "enum": [
                 "F",
                 "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y_GE65",
-                "Y0T17",
-                "Y0T5",
-                "Y14T17",
-                "Y15T24",
-                "Y15T64",
-                "Y18T34",
-                "Y6T13",
                 ""
               ]
             }
@@ -109,16 +94,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

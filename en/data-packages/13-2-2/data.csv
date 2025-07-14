@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
-2018,Normal value,Units,Ministry of Enviroment,_L_KE_130202_01,,Tonnes of CO2-equivalent,2021,96
-2019,Normal value,Units,Ministry of Enviroment,_L_KE_130202_01,,Tonnes of CO2-equivalent,2021,97
-2020,Normal value,Units,Ministry of Enviroment,_L_KE_130202_01,,Tonnes of CO2-equivalent,2021,98
-2021,Normal value,Units,Ministry of Enviroment,_L_KE_130202_01,,Tonnes of CO2-equivalent,2021,100
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,UNDP_MECW,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (CO₂ equivalent) [13.2.2],,Percent,29.86
+2016,Normal value,Units,UNDP_MECW,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (CO₂ equivalent) [13.2.2],,Percent,30.24
+2017,Normal value,Units,UNDP_MECW,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (CO₂ equivalent) [13.2.2],,Percent,30.62
+2023,Normal value,Units,UNDP_MECW,Total greenhouse gas emissions without LULUCF for non-Annex I Parties (CO₂ equivalent) [13.2.2],,Percent,37.98

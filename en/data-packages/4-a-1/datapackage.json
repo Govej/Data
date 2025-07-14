@@ -38,23 +38,11 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of Secondary Schools with access to Electricity.",
-                "Proportion of Schools with access to Electricity.",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Basic Education Statistical Booklets",
+                "EMIS_2024",
                 ""
               ]
             },
@@ -67,9 +55,19 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ZW_BA",
+                "ZW_HA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MI",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MV",
+                "ZW_MW",
                 ""
               ]
             },
@@ -80,7 +78,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_3",
+                "Primary education or less",
+                "Secondary education (lower and upper secondary education)",
                 "Primary education",
                 ""
               ]
@@ -91,20 +90,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016",
-                "2023",
-                "2020",
-                "2022",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

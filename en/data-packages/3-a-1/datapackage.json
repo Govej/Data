@@ -38,22 +38,11 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",
+                "ZDHS_2023_24",
                 ""
               ]
             },
@@ -87,20 +76,20 @@
             "title": "Sex"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "15 to 49 years old",
                 ""
               ]
             },
-            "title": "Time period details"
+            "title": "Age"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

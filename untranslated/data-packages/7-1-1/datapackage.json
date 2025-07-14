@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2014: KDHS                 2016: KIHBS                 2018:                            2019: KPHC                 2020: KCHS                2021: KCHS                2022 KDHS",
+                "Zimstat_2022_PHC",
                 ""
               ]
             }
@@ -50,9 +50,19 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ZW_BA",
+                "ZW_HA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MI",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MV",
+                "ZW_MW",
                 ""
               ]
             }
@@ -71,19 +81,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019",
-                "2016",
-                "2022",
-                "Baseline Data          (2009-2014)",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

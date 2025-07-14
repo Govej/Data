@@ -35,6 +35,16 @@
             }
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat_MICS_2019",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string"
           },
@@ -48,12 +58,11 @@
             }
           },
           {
-            "name": "SEX",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Y0T4",
                 ""
               ]
             }
@@ -61,16 +70,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

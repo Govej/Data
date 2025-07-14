@@ -1,13 +1,15 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,Value
-2014,A,0,Proportion of urban population living in a household that lacks one of the four housing conditions,_L_KE_110101_01,,PT,2019,34.9
-2019,A,0,Proportion of urban population living in a household that lacks one of the four housing conditions,_L_KE_110101_01,,PT,2019,37.2
-2014,A,0,Proportion of urban population living in a household that lacks two of the four housing conditions,_L_KE_110101_02,,PT,2019,23.2
-2019,A,0,Proportion of urban population living in a household that lacks two of the four housing conditions,_L_KE_110101_02,,PT,2019,14.9
-2014,A,0,Proportion of urban population living in a household that three of the four housing conditions,_L_KE_110101_03,,PT,2019,10.6
-2019,A,0,Proportion of urban population living in a household that three of the four housing conditions,_L_KE_110101_03,,PT,2019,4.2
-2014,A,0,Proportion of urban population living in a household that lacks all the four housing conditions,_L_KE_110101_04,,PT,2019,2.7
-2019,A,0,Proportion of urban population living in a household that lacks all the four housing conditions,_L_KE_110101_04,,PT,2019,0.9
-2014,A,0,"Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved sanitation facilities; Sufficient-living area, not overcrowded;housing durability)",_L_KE_110101_05,,PT,2019,71.4
-2019,A,0,"Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved sanitation facilities; Sufficient-living area, not overcrowded;housing durability)",_L_KE_110101_05,,PT,2019,57.3
-2014,A,0,Proportion of urban population living in informal settlements,EN_LND_SLUM,,PT,2019,7.9
-2019,A,0,Proportion of urban population living in informal settlements,EN_LND_SLUM,,PT,2019,6.9
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2019,A,0,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,0.33
+2022,A,0,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,1.1
+2023,A,0,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,80.0
+2024,A,0,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,90.0
+2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_BA,PT,0.26
+2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_HA,PT,1.45
+2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_MA,PT,1.24
+2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_MC,PT,1.35
+2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_ME,PT,1.37
+2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_MI,PT,0.83
+2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_MN,PT,0.85
+2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_MS,PT,1.91
+2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_MV,PT,0.26
+2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_MW,PT,1.14

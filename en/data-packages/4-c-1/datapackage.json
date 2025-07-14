@@ -38,6 +38,19 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Min_primany_secondary_EMIS_2021",
+                "Min_primany_secondary_EMIS_2019",
+                "Min_primany_secondary_EMIS_2024",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
@@ -57,9 +70,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Secondary education (lower and upper secondary education)",
                 "Pre-primary education",
                 "Primary education",
+                "Lower secondary education",
                 ""
               ]
             },
@@ -69,17 +82,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

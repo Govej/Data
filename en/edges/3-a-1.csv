@@ -1,4 +1,3 @@
 From,To
-Observation-level footnotes,Source details
-Source details,Time period details
-Time period details,Sex
+Source details,Sex
+Sex,Age

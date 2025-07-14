@@ -35,23 +35,11 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "An individual is considered to be multi-dimensionally poor if she/he was deprived in 3 or more dimensions out of the 5 or 6 analysed (depending on the age group), based on Multiple Overlapping Deprivation Analysis (MODA) methodology",
-                "Based on KDHS 2014 data",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2014: Kenya Child Poverty Study (KNBS & Unicef)                       2019: Inequalities in Wellbeing in Kenya based on 2009 and 2019 KPHC-MODA Methodology",
-                "2014: KDHS",
+                "2021_Child_Poverty_in_Zimbabwe",
                 ""
               ]
             }
@@ -74,11 +62,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE60",
                 "Y0T17",
-                "Y18T25",
-                "Y18T34",
-                "Y35T59",
                 ""
               ]
             }
@@ -97,16 +81,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

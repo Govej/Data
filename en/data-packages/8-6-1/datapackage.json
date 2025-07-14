@@ -38,22 +38,12 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Refers to 15-34 years",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2016:   KIHBS           2019:   KPHC , 2020:  KCHS, 2021 KCHS, 2022 KCHS",
+                "ZIMSTAT",
+                "Zimstat_QLFS",
                 ""
               ]
             },
@@ -66,9 +56,19 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ZW_BA",
+                "ZW_HA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MI",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MV",
+                "ZW_MW",
                 ""
               ]
             },
@@ -87,32 +87,20 @@
             "title": "Sex"
           },
           {
-            "name": "URBANISATION",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "15 to 24 years old",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

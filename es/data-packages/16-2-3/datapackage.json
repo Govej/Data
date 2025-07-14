@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KDHS",
+                "ZRP_Crime_Records",
                 ""
               ]
             },
@@ -64,32 +64,9 @@
             "title": "REF_AREA"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

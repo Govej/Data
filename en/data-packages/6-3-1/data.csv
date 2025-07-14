@@ -1,6 +1,7 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,Value
-2020,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,WW_DOM,Percent,2022,9.4
-2022,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,WW_DOM,Percent,2022,11.0
-2020,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,WW_DOM_SEW,Percent,2022,53.3
-2022,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,WW_DOM_SEW,Percent,2022,50.0
-2022,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,WW_DOM_SPT,Percent,2022,39.1
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,ZINWA,Proportion of wastewater treated [6.3.1],,Percent,80.0
+2020,Normal value,Units,MOFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,14.3
+2021,Normal value,Units,MOFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,6.8
+2022,Normal value,Units,MOFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,17.8
+2023,Normal value,Units,MOFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,2.0
+2024,Normal value,Units,MOFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,6.9

@@ -39,10 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kisumu County",
-                "Mombasa County",
-                "Nairobi City County",
-                "Nakuru Coutny",
+                "PHC",
                 ""
               ]
             }
@@ -53,13 +50,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KE_KIS",
-                "KE_MBA",
-                "KE_NBO",
-                "KE_NUU",
                 ""
               ]
             }
@@ -69,7 +62,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CITY",
+                "U",
                 ""
               ]
             }
@@ -79,18 +72,8 @@
             "type": "string"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

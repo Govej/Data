@@ -38,22 +38,11 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",
+                "ZDHS_2023_24",
                 ""
               ]
             },
@@ -87,20 +76,20 @@
             "title": "SEX"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "TIME_DETAIL",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "Y15T49",
                 ""
               ]
             },
-            "title": "TIME_DETAIL"
+            "title": "AGE"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

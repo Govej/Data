@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CBK, KNBS",
+                "Reserve_Bank_Of_Zimbabwe",
                 ""
               ]
             }
@@ -60,17 +60,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                "2022",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

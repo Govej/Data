@@ -29,8 +29,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3",
-                "6",
+                "0",
                 ""
               ]
             }
@@ -40,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Survey",
+                "CAAZ",
                 ""
               ]
             }
@@ -59,47 +58,12 @@
             }
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MOT_AIR",
-                "MOT_IWW_SEA",
-                "MOT_RAI",
-                "MOT_ROA",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data collected from Kenya seaward border points for foreigners",
-                "Figures represent value of output of passengers/ freight",
-                "Data from Mombasa, Lamu and Kisumu ports",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

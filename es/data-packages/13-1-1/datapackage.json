@@ -42,7 +42,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kenya National Disaster Operations Centre (NDOC)",
+                "UNDRR_CPU",
+                "MLGPWNH",
+                "MLGPWNH_CPU",
                 ""
               ]
             },
@@ -67,17 +69,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
           },
           {
             "name": "Value",

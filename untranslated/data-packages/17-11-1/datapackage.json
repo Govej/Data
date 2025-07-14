@@ -29,17 +29,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "6",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Values refer to Kenya's exports",
+                "0",
                 ""
               ]
             }
@@ -49,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Survey",
+                "GOZ",
                 ""
               ]
             }
@@ -72,18 +62,8 @@
             "type": "string"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

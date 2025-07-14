@@ -42,7 +42,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2014: KDHS, 2022: KDHS",
+                "Zimstat_MICS_2019",
+                "ZDHS_2023_24",
+                "ZDHS 2023-24",
+                "DHIS2_2024",
                 ""
               ]
             },
@@ -55,29 +58,52 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ZW_BA",
+                "ZW_HA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MI",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MV",
+                "ZW_MW",
                 ""
               ]
             },
             "title": "REF_AREA"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "UNIT_MEASURE"
-          },
-          {
-            "name": "TIME_DETAIL",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "M12T23",
+                "M24T35",
                 ""
               ]
             },
-            "title": "TIME_DETAIL"
+            "title": "AGE"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "R",
+                "U",
+                ""
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

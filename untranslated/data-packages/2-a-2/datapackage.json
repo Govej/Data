@@ -29,17 +29,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "6",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AIA, loans and grants to livestock,crop and fisheries, aquatic and blue economy",
+                "0",
                 ""
               ]
             }
@@ -49,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "External revenue estimates handbook - Agriculture",
+                "MOFEDIP_ICD_Devpromise_system",
                 ""
               ]
             }
@@ -70,16 +60,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

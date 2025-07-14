@@ -38,20 +38,16 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of urban population living in a household that lacks one of the four housing conditions",
-                "Proportion of urban population living in a household that lacks two of the four housing conditions",
-                "Proportion of urban population living in a household that three of the four housing conditions",
-                "Proportion of urban population living in a household that lacks all the four housing conditions",
-                "Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved sanitation facilities; Sufficient-living area, not overcrowded;housing durability)",
-                "Proportion of urban population living in informal settlements",
+                "Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents",
+                "Zimstat_2022_PHC",
                 ""
               ]
             },
-            "title": "Observation-level footnotes"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -60,9 +56,19 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ZW_BA",
+                "ZW_HA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MI",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MV",
+                "ZW_MW",
                 ""
               ]
             },
@@ -72,17 +78,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

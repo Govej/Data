@@ -38,22 +38,13 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Refers to individuals",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2016: KIHBS                2019 - 2022: KCHSP",
+                "Zimstat_Mini__PICES__Poverty_Report_2019__LowerLine",
+                "Zimstat_Poverty_Atlas__Report_2021_Males_and_Females",
+                "Zimstat_Poverty_Report_2017_Lower_Line",
                 ""
               ]
             },
@@ -66,9 +57,19 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "ZW_BA",
+                "ZW_HA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MI",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MV",
+                "ZW_MW",
                 ""
               ]
             },
@@ -87,24 +88,6 @@
             "title": "Sex"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "65 years old and over",
-                "under 18 years old",
-                "under 6 years old",
-                "Y14T17",
-                "15 to 24 years old",
-                "15 to 64 years old",
-                "Y18T34",
-                "Y6T13",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
@@ -120,17 +103,6 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

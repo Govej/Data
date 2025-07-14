@@ -38,22 +38,11 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sourced from the Health Regulatory Bodies in Kenya",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Survey",
+                "MOHCC",
                 ""
               ]
             },
@@ -75,39 +64,13 @@
             "title": "REF_AREA"
           },
           {
-            "name": "OCCUPATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCO08_221",
-                "ISCO08_2221_3221",
-                "ISCO08_2261",
-                "ISCO08_2262",
-                "ISCO08_3213",
-                ""
-              ]
-            },
-            "title": "OCCUPATION"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            },
-            "title": "TIME_DETAIL"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

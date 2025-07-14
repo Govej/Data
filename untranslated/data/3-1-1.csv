@@ -1,12 +1,14 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,AGE,URBANISATION,UNIT_MEASURE,TIME_DETAIL,Value
-2014,A,0,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,SH_STA_MORT,,,,PER_100000_LIVE_BIRTHS,2019,362
-2019,A,0,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,SH_STA_MORT,,,,PER_100000_LIVE_BIRTHS,2019,355
-2019,A,0,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,SH_STA_MORT,,,R,PER_100000_LIVE_BIRTHS,2019,374
-2019,A,0,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,SH_STA_MORT,,,U,PER_100000_LIVE_BIRTHS,2019,317
-2019,A,0,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,SH_STA_MORT,,Y15T19,,PER_100000_LIVE_BIRTHS,2019,464
-2019,A,0,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,SH_STA_MORT,,Y20T24,,PER_100000_LIVE_BIRTHS,2019,275
-2019,A,0,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,SH_STA_MORT,,Y25T29,,PER_100000_LIVE_BIRTHS,2019,287
-2019,A,0,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,SH_STA_MORT,,Y30T34,,PER_100000_LIVE_BIRTHS,2019,345
-2019,A,0,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,SH_STA_MORT,,Y35T39,,PER_100000_LIVE_BIRTHS,2019,436
-2019,A,0,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,SH_STA_MORT,,Y40T44,,PER_100000_LIVE_BIRTHS,2019,786
-2019,A,0,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,SH_STA_MORT,,Y45T49,,PER_100000_LIVE_BIRTHS,2019,2219
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2019,A,0,ZDHS,SH_STA_MORT,,PER_100000_POP,462
+2022,A,0,ZDHS,SH_STA_MORT,,PER_100000_POP,362
+2024,A,0,ZDHS,SH_STA_MORT,,PER_100000_POP,212
+2022,A,0,Zimstat_2022_PHC,SH_STA_MORT,ZW_BA,PER_100000_POP,248
+2022,A,0,Zimstat_2022_PHC,SH_STA_MORT,ZW_HA,PER_100000_POP,303
+2022,A,0,Zimstat_2022_PHC,SH_STA_MORT,ZW_MA,PER_100000_POP,248
+2022,A,0,Zimstat_2022_PHC,SH_STA_MORT,ZW_MC,PER_100000_POP,292
+2022,A,0,Zimstat_2022_PHC,SH_STA_MORT,ZW_ME,PER_100000_POP,401
+2022,A,0,Zimstat_2022_PHC,SH_STA_MORT,ZW_MI,PER_100000_POP,424
+2022,A,0,Zimstat_2022_PHC,SH_STA_MORT,ZW_MN,PER_100000_POP,365
+2022,A,0,Zimstat_2022_PHC,SH_STA_MORT,ZW_MS,PER_100000_POP,375
+2022,A,0,Zimstat_2022_PHC,SH_STA_MORT,ZW_MV,PER_100000_POP,377
+2022,A,0,Zimstat_2022_PHC,SH_STA_MORT,ZW_MW,PER_100000_POP,377

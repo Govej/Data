@@ -1,8 +1,5 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
-2015,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,9.8
-2017,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,11.4
-2018,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,11.4
-2019,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,19.4
-2020,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,11.4
-2021,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,11.4
-2022,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,11.4
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,EMA_REPORTS,Proportion of land that is degraded over total land area [15.3.1],,Percent,9.6
+2019,Normal value,Units,EMA_REPORTS,Proportion of land that is degraded over total land area [15.3.1],,Percent,9.22
+2022,Normal value,Units,EMA_REPORTS,Proportion of land that is degraded over total land area [15.3.1],,Percent,0.029
+2024,Normal value,Units,EMA_REPORTS,Proportion of land that is degraded over total land area [15.3.1],,Percent,12.57

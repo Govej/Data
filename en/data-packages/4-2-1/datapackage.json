@@ -38,6 +38,17 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat_MICS_2019",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
@@ -53,32 +64,20 @@
             "title": "Reference area"
           },
           {
-            "name": "SEX",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "under 5 years old",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

@@ -42,11 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",
-                "2015: Uwezo Kenya Sixth Learning Assessment Report",
-                "Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC",
-                "Basic Education Statistics Booklet",
-                "Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",
+                "2023_EMIS",
                 ""
               ]
             },
@@ -80,59 +76,20 @@
             "title": "Sex"
           },
           {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_1",
-                "Lower secondary education",
-                "Primary education, sufficient for level completion",
+                "Primary education or less",
                 ""
               ]
             },
             "title": "Education level"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Skill: Mathematics",
-                "Skill: Reading",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                "2018",
-                "2019",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

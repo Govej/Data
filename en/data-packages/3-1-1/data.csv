@@ -1,12 +1,14 @@
-Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
-2014,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,,,"Per 100,000 live births",2019,362
-2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,,,"Per 100,000 live births",2019,355
-2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,,Rural,"Per 100,000 live births",2019,374
-2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,,Urban,"Per 100,000 live births",2019,317
-2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,15 to 19 years old,,"Per 100,000 live births",2019,464
-2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,20 to 24 years old,,"Per 100,000 live births",2019,275
-2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,25 to 29 years old,,"Per 100,000 live births",2019,287
-2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,30 to 34 years old,,"Per 100,000 live births",2019,345
-2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,35 to 39 years old,,"Per 100,000 live births",2019,436
-2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,40 to 44 years old,,"Per 100,000 live births",2019,786
-2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,45 to 49 years old,,"Per 100,000 live births",2019,2219
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2019,Normal value,Units,ZDHS,Maternal mortality ratio [3.1.1],,"Per 100,000 population",462
+2022,Normal value,Units,ZDHS,Maternal mortality ratio [3.1.1],,"Per 100,000 population",362
+2024,Normal value,Units,ZDHS,Maternal mortality ratio [3.1.1],,"Per 100,000 population",212
+2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],ZW_BA,"Per 100,000 population",248
+2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],ZW_HA,"Per 100,000 population",303
+2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],ZW_MA,"Per 100,000 population",248
+2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],ZW_MC,"Per 100,000 population",292
+2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],ZW_ME,"Per 100,000 population",401
+2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],ZW_MI,"Per 100,000 population",424
+2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],ZW_MN,"Per 100,000 population",365
+2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],ZW_MS,"Per 100,000 population",375
+2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],ZW_MV,"Per 100,000 population",377
+2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],ZW_MW,"Per 100,000 population",377

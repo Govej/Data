@@ -38,22 +38,11 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Waiting for Analysis of 2024 Kenya Housing Survey",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2016 : KIHBS",
+                "Zimstat_MICS_2019",
                 ""
               ]
             },
@@ -75,20 +64,21 @@
             "title": "Reference area"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "2016",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Time period details"
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

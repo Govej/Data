@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Enviroment",
+                "UNDP_MECW",
                 ""
               ]
             }
@@ -62,18 +62,8 @@
             "type": "string"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

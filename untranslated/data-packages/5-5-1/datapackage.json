@@ -35,21 +35,12 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Include both elected and nominated seats",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Survey",
+                "ZIMSTAT_women_and_men_report",
+                "ZDHS_2023_24",
                 ""
               ]
             }
@@ -78,13 +69,11 @@
             }
           },
           {
-            "name": "OCCUPATION",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_ISCO08_1111_03",
-                "_L_KE_ISCO08_1111_05",
-                "_L_KE_ISCO08_1111_06",
+                "Y20T24",
                 ""
               ]
             }
@@ -92,16 +81,6 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2023",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
