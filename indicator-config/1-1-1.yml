@@ -7,7 +7,7 @@ progress_calculation_options:
   - field: Sex
     value: Female
   direction: negative
-composite_breakdown_label: ''
+﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
