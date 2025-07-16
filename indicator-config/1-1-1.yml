@@ -1,12 +1,12 @@
-auto_progress_calculation: true
-progress_calculation_options:
-- series: Employed population below international poverty line [1.1.1]
-  disaggregation:
-  - field: Sex
-    value: Male
-  - field: Sex
-    value: Female
-  direction: negative
+#auto_progress_calculation: true
+#progress_calculation_options:
+#- series: Employed population below international poverty line [1.1.1]
+#  disaggregation:
+#  - field: Sex
+#    value: Male
+#  - field: Sex
+#    value: Female
+#  direction: negative
 ﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
